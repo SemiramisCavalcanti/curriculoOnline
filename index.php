@@ -1,0 +1,24 @@
+<?php
+    
+include_once "paginas/include/header.php";
+
+    if (isset($_GET['pg'])) {
+        $paginas = $_GET['pg'];
+
+        switch ($paginas) {
+
+            case 'inicial':
+                include "paginas/inicial.php";
+                break;
+
+            default:
+                echo "pagina não Definida";
+                break;
+        }
+
+    } else {
+        include "paginas/inicial.php";
+    }
+
+    // Footer
+include_once "paginas/include/footer.php";

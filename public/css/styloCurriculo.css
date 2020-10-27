@@ -1,0 +1,50 @@
+#fotoPerfil {
+    width: 250px;
+}
+
+#Semiramis {
+    margin-top: 20px;
+}
+
+#Cabecalho {
+    margin: 0px;
+}
+
+#SlideDakarai01 {
+    width: 320px;
+    margin-left: 180px;
+}
+
+#SlideDakarai {
+    width: 320px;
+}
+
+
+/* O fundo do menu continua branco- ajustar para transparente */
+
+#menuNavegacaoInicial {
+    color: transparent;
+}
+
+#menuTextos {
+    font-size: 12PX;
+}
+
+#Rodape {
+    width: 150px;
+    margin: 0px;
+    margin-left: 50px;
+}
+
+#Rodape01 {
+    margin-top: 20px;
+    margin-left: 50px;
+}
+
+.logoDakaraiRodape {
+    width: 150px;
+}
+
+.logoCabecadeAlhoRodape {
+    width: 100px;
+}
