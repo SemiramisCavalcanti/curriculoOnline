@@ -13,7 +13,7 @@
 </head>
 
 <!-- Ainda não consehui colocar o fundo sem repetir -->
-<body >
+<body>
     <div class="container">
 
         <header>
@@ -62,7 +62,7 @@
                             <a class="nav-link " href="https://instagram.com/sessecavalcanti?igshid=s0ks4o4fbqpk"> <i class="Regi-instagram"></i> <span></span> CabeçaDeAlho</a>
                         </li>
                         <li class="nav-item alert-success active">
-                            <a class="nav-link" href="textos.html "><i class="Regi-text-color"></i> <span></span> Textos </a>
+                            <a class="nav-link" href="index.php?pg=textos"><i class="Regi-text-color"></i> <span></span> Textos </a>
                         </li>
                         <li class="nav-item alert-warning">
                             <a class="nav-link " href="conteudoVisual.html "><span></span> CriaçãoVisual</a>

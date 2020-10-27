@@ -10,6 +10,9 @@ include_once "paginas/include/header.php";
             case 'inicial':
                 include "paginas/inicial.php";
                 break;
+            case 'textos':
+                include "paginas/textos.php";
+                break;
 
             default:
                 echo "pagina não Definida";
